@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Mike Schmid
-- 👀  I’m interested in learning more about ML & CV
-- 🌱  I’m currently learning Python
-- 💞️  I’m looking to collaborate on anything that can help me learn more about basic ML/CV projects
+- 👀  I’m interested in learning more about front end web development
+- 🌱  I’m currently learning Javascript
+- 💞️  I’m looking to collaborate on anything that can help me learn more about basic front end projects
 - 📫  How to reach me: email mjschmid10@gmail.com
 
 <!---
